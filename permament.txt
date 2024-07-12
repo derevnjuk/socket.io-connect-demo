@@ -1,0 +1,14 @@
+$ npm start
+
+> socket.io-connect-demo@1.0.0 start
+> node server/app.js
+
+listening on *:3333
+FiNl5FmhtMf5rMU3AAAB connect
+FiNl5FmhtMf5rMU3AAAB disconnect
+FiNl5FmhtMf5rMU3AAAB recovered
+FiNl5FmhtMf5rMU3AAAB disconnect (recovered)
+FiNl5FmhtMf5rMU3AAAB recovered
+FiNl5FmhtMf5rMU3AAAB disconnect (recovered)
+FiNl5FmhtMf5rMU3AAAB recovered
+FiNl5FmhtMf5rMU3AAAB disconnect (recovered)

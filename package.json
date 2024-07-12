@@ -9,17 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shenX-2021/socket.io-connect-demo.git"
+    "url": "git+https://github.com/derevnjuk/socket.io-connect-demo.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shenX-2021/socket.io-connect-demo/issues"
+    "url": "https://github.com/derevnjuk/socket.io-connect-demo/issues"
   },
-  "homepage": "https://github.com/shenX-2021/socket.io-connect-demo#readme",
+  "homepage": "https://github.com/derevnjuk/socket.io-connect-demo#readme",
   "dependencies": {
-    "express": "^4.17.2",
-    "socket.io": "^4.4.1",
-    "socket.io-client": "^4.4.1"
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5"
   }
 }
